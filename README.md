@@ -1,2 +1,2 @@
 # AbilityHeads
-League of Legends abilities and spells are implemented in minecraft.
+Plugin that introduces League of Legends spells and abilities through some special items. Also those items can be purchased with money or levels through signs.
