@@ -1,0 +1,9 @@
+name: AbilityHeads
+version: 1.0
+author: SkyHash
+description: Custom Ability Plugin.
+main: com.github.marcomodder.AbilityHeads
+
+commands:
+  ability:
+    usage: /<command>
